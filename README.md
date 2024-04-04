@@ -1,0 +1,2 @@
+# SpringMiniature
+Spring HelloWorld Project

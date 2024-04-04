@@ -1,0 +1,2 @@
+# SpringMini
+Spring HelloWorld Project
